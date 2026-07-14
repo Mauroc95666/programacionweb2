@@ -160,3 +160,32 @@ Sigue estos pasos para levantar el entorno de desarrollo localmente:
 ```sh
 git clone [https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git](https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git)
 cd gestion-panaderiakiataque-vue
+
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+
+npm install
+
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+
+npm run dev
+
+```
+
+### Compile and Minify for Production
+
+```sh
+
+npm run build
+
+```
