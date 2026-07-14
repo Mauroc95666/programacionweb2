@@ -67,3 +67,20 @@ Registro rápido de ventas en mostrador.
 ![Mockup — Punto de Venta](docs/mockups/04-punto-venta-mockup.png)
 
 ---
+---
+
+# 👤 Luis Portillo Gonzales
+
+## Pantalla 5 — Pedidos y Delivery
+
+Administración y seguimiento de pedidos realizados por los clientes.
+
+### Wireframe
+
+![Wireframe — Pedidos y Delivery](docs/mockups/05-pedidos-wireframe.png)
+
+### Mockup
+
+![Mockup — Pedidos y Delivery](docs/mockups/05-pedidos-mockup.png)
+
+---
