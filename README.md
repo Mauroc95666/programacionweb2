@@ -160,6 +160,7 @@ Sigue estos pasos para levantar el entorno de desarrollo localmente:
 ```sh
 git clone [https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git](https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git)
 cd gestion-panaderiakiataque-vue
+```
 ### 2. Instalar dependencias del proyecto
 ```sh
 npm install
