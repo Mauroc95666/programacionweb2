@@ -160,14 +160,18 @@ Sigue estos pasos para levantar el entorno de desarrollo localmente:
 ```sh
 git clone [https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git](https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git)
 cd gestion-panaderiakiataque-vue
+```
 2. Instalar dependencias del proyecto
-Bash
+```sh
 npm install
+```
 3. Compilar y arrancar el servidor de desarrollo (Hot-Reload)
-Bash
+```sh
 npm run dev
+```
 4. Compilar y minificar para producción
-Bash
+```sh
 npm run build
+```
 ⚙️ Configuración Adicional
 Para más detalles sobre la configuración avanzada de compilación, consulta la Referencia de Configuración de Vite.
