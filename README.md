@@ -49,7 +49,7 @@ Autenticación de usuarios mediante correo electrónico y contraseña.
     <td align="center" width="50%"><b>Mockup</b></td>
   </tr>
   <tr>
-    <td><img src="docs/mockups/01-login-wireframe.png" alt="Wireframe — Inicio de Sesión" width="100%"/></td>
+    <td><img src="![](docs/mockups/01-login-wireframe.png)" alt="Wireframe — Inicio de Sesión" width="100%"/></td>
     <td><img src="docs/mockups/01-login-mockup.png" alt="Mockup — Inicio de Sesión" width="100%"/></td>
   </tr>
 </table>
