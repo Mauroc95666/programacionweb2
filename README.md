@@ -1,42 +1,60 @@
-# gestion-panaderiakiataque-vue
+# 👥 Integrantes
 
-This template should help get you started developing with Vue 3 in Vite.
+- **Anderson Carvajal Romero**
+- **Marco Antonio Kiataque Uchiba**
+- **Luis Portillo Gonzales**
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+# 📑 Tabla de contenidos
 
-## Recommended Browser Setup
+- Descripción del proyecto
+- Diseño de Interfaces
+  - Anderson Carvajal Romero
+  - Marco Antonio Kiataque Uchiba
+  - Luis Portillo Gonzales
+- Guía de estilo
+- Herramientas utilizadas
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+# Descripción del proyecto
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+La Panadería Kiataque gestiona actualmente sus operaciones de forma manual: los pedidos llegan por WhatsApp, las ventas se anotan en cuaderno y el control de insumos se lleva de memoria. Esto provoca quiebres de stock, pérdida de pedidos y dificultad para saber qué producto deja mayor ganancia.
 
-## Project Setup
+El sistema propuesto centraliza productos, ventas, pedidos, inventario, clientes y reportes en una sola plataforma web, permitiendo que la panadería compita en condiciones equivalentes a las de empresas de mayor tamaño.
 
-```sh
-npm install
-```
+---
 
-### Compile and Hot-Reload for Development
+# 👤 Anderson Carvajal Romero
 
-```sh
-npm run dev
-```
+## Pantalla 1 — Inicio de Sesión
 
-### Compile and Minify for Production
+Autenticación de usuarios mediante correo electrónico y contraseña.
 
-```sh
-npm run build
-```
+### Wireframe
 
+![Wireframe — Inicio de Sesión](docs/mockups/01-login-wireframe.png)
+
+### Mockup
+
+![Mockup — Inicio de Sesión](docs/mockups/01-login-mockup.png)
+
+---
+
+## Pantalla 2 — Panel de Control
+
+Visualización general del estado del negocio con indicadores de ventas, pedidos y stock.
+
+### Wireframe
+
+![Wireframe — Panel de Control](docs/mockups/02-dashboard-wireframe.png)
+
+### Mockup
+
+![Mockup — Panel de Control](docs/mockups/02-dashboard-mockup.png)
+
+---
 
 # 👤 Marco Antonio Kiataque Uchiba
 
@@ -67,7 +85,6 @@ Registro rápido de ventas en mostrador.
 ![Mockup — Punto de Venta](docs/mockups/04-punto-venta-mockup.png)
 
 ---
----
 
 # 👤 Luis Portillo Gonzales
 
@@ -84,3 +101,15 @@ Administración y seguimiento de pedidos realizados por los clientes.
 ![Mockup — Pedidos y Delivery](docs/mockups/05-pedidos-mockup.png)
 
 ---
+
+## Pantalla 6 — Inventario
+
+Control del stock de productos terminados e insumos.
+
+### Wireframe
+
+![Wireframe — Inventario](docs/mockups/06-inventario-wireframe.png)
+
+### Mockup
+
+![Mockup — Inventario](docs/mockups/06-inventario-mockup.png)
