@@ -36,3 +36,96 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+# 👤 Marco Antonio Kiataque
+
+## Pantalla 5 - Inicio de Sesión
+
+### Objetivo
+Permitir el acceso al sistema.
+
+### Wireframe
+
+
++------------------------------------------------+
+| Iniciar Sesión                                 |
+|                                                |
+| Correo                                         |
+| _______________________                        |
+|                                                |
+| Contraseña                                     |
+| _______________________                        |
+|                                                |
+| [Ingresar]                                     |
++------------------------------------------------+
+
+
+### Mockup
+
+
++------------------------------------------------+
+| 🔐 Bienvenido                                  |
+|                                                |
+| 📧 Correo                                      |
+|                                                |
+| 🔒 Contraseña                                  |
+|                                                |
+| 🟠 Iniciar Sesión                              |
++------------------------------------------------+
+
+
+---
+
+## Pantalla 6 - Contacto
+
+### Objetivo
+Mostrar la información de la panadería.
+
+### Wireframe
+
+
++------------------------------------------------+
+| Contacto                                       |
+|                                                |
+| Dirección                                      |
+| Teléfono                                       |
+| Horarios                                       |
+|                                                |
+| Formulario                                     |
+|                                                |
+| [Enviar]                                       |
++------------------------------------------------+
+
+
+### Mockup
+
+
++------------------------------------------------+
+| 📍 Panadería Kiataque                         |
+|                                                |
+| Calle Principal #123                           |
+|                                                |
+| 📞 70000000                                    |
+|                                                |
+| 🕒 Lunes a Domingo                             |
+| 07:00 - 20:00                                  |
+|                                                |
+| 🟠 Enviar Mensaje                              |
++------------------------------------------------+
+
+
+---
+
+# Herramientas utilizadas
+
+- Figma
+- Draw.io
+- GitHub
+- Visual Studio Code
+
+---
+
+# Conclusión
+
+Se desarrollaron seis pantallas para el sistema web de la *Panadería Kiataque*, distribuidas equitativamente entre los tres integrantes del equipo. Cada pantalla cuenta con su respectivo wireframe y mockup, siguiendo principios de diseño UX/UI para ofrecer una interfaz intuitiva y funcional.
