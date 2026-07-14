@@ -49,8 +49,8 @@ Autenticación de usuarios mediante correo electrónico y contraseña.
     <td align="center" width="50%"><b>Mockup</b></td>
   </tr>
   <tr>
-    <td><img src="![](docs/mockups/01-login-wireframe.png)" alt="Wireframe — Inicio de Sesión" width="100%"/></td>
-    <td><img src="docs/mockups/01-login-mockup.png" alt="Mockup — Inicio de Sesión" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/01-login-wireframe.png" alt="Wireframe — Inicio de Sesión" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/01-login-mockup.png" alt="Mockup — Inicio de Sesión" width="100%"/></td>
   </tr>
 </table>
 
@@ -63,8 +63,8 @@ Visualización general del estado del negocio con indicadores de ventas, pedidos
     <td align="center" width="50%"><b>Mockup</b></td>
   </tr>
   <tr>
-    <td><img src="docs/mockups/02-dashboard-wireframe.png" alt="Wireframe — Panel de Control" width="100%"/></td>
-    <td><img src="docs/mockups/02-dashboard-mockup.png" alt="Mockup — Panel de Control" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/02-dashboard-wireframe.png" alt="Wireframe — Panel de Control" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/02-dashboard-mockup.png" alt="Mockup — Panel de Control" width="100%"/></td>
   </tr>
 </table>
 
@@ -81,8 +81,8 @@ Gestión del catálogo de productos de la panadería.
     <td align="center" width="50%"><b>Mockup</b></td>
   </tr>
   <tr>
-    <td><img src="docs/mockups/03-productos-wireframe.png" alt="Wireframe — Catálogo de Productos" width="100%"/></td>
-    <td><img src="docs/mockups/03-productos-mockup.png" alt="Mockup — Catálogo de Productos" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/03-productos-wireframe.png" alt="Wireframe — Catálogo de Productos" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/03-productos-mockup.png" alt="Mockup — Catálogo de Productos" width="100%"/></td>
   </tr>
 </table>
 
@@ -95,8 +95,8 @@ Registro rápido de ventas en mostrador.
     <td align="center" width="50%"><b>Mockup</b></td>
   </tr>
   <tr>
-    <td><img src="docs/mockups/04-punto-venta-wireframe.png" alt="Wireframe — Punto de Venta" width="100%"/></td>
-    <td><img src="docs/mockups/04-punto-venta-mockup.png" alt="Mockup — Punto de Venta" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/04-punto-venta-wireframe.png" alt="Wireframe — Punto de Venta" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/04-punto-venta-mockup.png" alt="Mockup — Punto de Venta" width="100%"/></td>
   </tr>
 </table>
 
@@ -113,8 +113,8 @@ Administración y seguimiento de pedidos realizados por los clientes.
     <td align="center" width="50%"><b>Mockup</b></td>
   </tr>
   <tr>
-    <td><img src="docs/mockups/05-pedidos-wireframe.png" alt="Wireframe — Pedidos y Delivery" width="100%"/></td>
-    <td><img src="docs/mockups/05-pedidos-mockup.png" alt="Mockup — Pedidos y Delivery" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/05-pedidos-wireframe.png" alt="Wireframe — Pedidos y Delivery" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/05-pedidos-mockup.png" alt="Mockup — Pedidos y Delivery" width="100%"/></td>
   </tr>
 </table>
 
@@ -127,8 +127,8 @@ Control del stock de productos terminados e insumos.
     <td align="center" width="50%"><b>Mockup</b></td>
   </tr>
   <tr>
-    <td><img src="docs/mockups/06-inventario-wireframe.png" alt="Wireframe — Inventario" width="100%"/></td>
-    <td><img src="docs/mockups/06-inventario-mockup.png" alt="Mockup — Inventario" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/06-inventario-wireframe.png" alt="Wireframe — Inventario" width="100%"/></td>
+    <td><img src="docs/mockups/mockups/06-inventario-mockup.png" alt="Mockup — Inventario" width="100%"/></td>
   </tr>
 </table>
 
@@ -160,7 +160,6 @@ Sigue estos pasos para levantar el entorno de desarrollo localmente:
 ```sh
 git clone [https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git](https://github.com/tu-usuario/gestion-panaderiakiataque-vue.git)
 cd gestion-panaderiakiataque-vue
-```
 ### 2. Instalar dependencias del proyecto
 ```sh
 npm install
