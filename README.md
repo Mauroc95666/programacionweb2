@@ -38,94 +38,32 @@ npm run build
 ```
 
 
-# 👤 Marco Antonio Kiataque
+# 👤 Marco Antonio Kiataque Uchiba
 
-## Pantalla 5 - Inicio de Sesión
+## Pantalla 3 — Catálogo de Productos
 
-### Objetivo
-Permitir el acceso al sistema.
-
-### Wireframe
-
-
-+------------------------------------------------+
-| Iniciar Sesión                                 |
-|                                                |
-| Correo                                         |
-| _______________________                        |
-|                                                |
-| Contraseña                                     |
-| _______________________                        |
-|                                                |
-| [Ingresar]                                     |
-+------------------------------------------------+
-
-
-### Mockup
-
-
-+------------------------------------------------+
-| 🔐 Bienvenido                                  |
-|                                                |
-| 📧 Correo                                      |
-|                                                |
-| 🔒 Contraseña                                  |
-|                                                |
-| 🟠 Iniciar Sesión                              |
-+------------------------------------------------+
-
-
----
-
-## Pantalla 6 - Contacto
-
-### Objetivo
-Mostrar la información de la panadería.
+Gestión del catálogo de productos de la panadería.
 
 ### Wireframe
 
-
-+------------------------------------------------+
-| Contacto                                       |
-|                                                |
-| Dirección                                      |
-| Teléfono                                       |
-| Horarios                                       |
-|                                                |
-| Formulario                                     |
-|                                                |
-| [Enviar]                                       |
-+------------------------------------------------+
-
+![Wireframe — Catálogo de Productos](docs/mockups/03-productos-wireframe.png)
 
 ### Mockup
 
-
-+------------------------------------------------+
-| 📍 Panadería Kiataque                         |
-|                                                |
-| Calle Principal #123                           |
-|                                                |
-| 📞 70000000                                    |
-|                                                |
-| 🕒 Lunes a Domingo                             |
-| 07:00 - 20:00                                  |
-|                                                |
-| 🟠 Enviar Mensaje                              |
-+------------------------------------------------+
-
+![Mockup — Catálogo de Productos](docs/mockups/03-productos-mockup.png)
 
 ---
 
-# Herramientas utilizadas
+## Pantalla 4 — Punto de Venta
 
-- Figma
-- Draw.io
-- GitHub
-- Visual Studio Code
+Registro rápido de ventas en mostrador.
+
+### Wireframe
+
+![Wireframe — Punto de Venta](docs/mockups/04-punto-venta-wireframe.png)
+
+### Mockup
+
+![Mockup — Punto de Venta](docs/mockups/04-punto-venta-mockup.png)
 
 ---
-
-# Conclusión
-
-Se desarrollaron seis pantallas para el sistema web de la *Panadería Kiataque*, distribuidas equitativamente entre los tres integrantes del equipo. Cada pantalla cuenta con su respectivo wireframe y mockup, siguiendo principios de diseño UX/UI para ofrecer una interfaz intuitiva y funcional.
