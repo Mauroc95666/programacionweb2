@@ -7,6 +7,11 @@ defineProps({
   subtitulo: {
     type: String,
     required: true
+  },
+  adicional: {
+    type: String,
+    required: false,
+    default: ''
   }
 })
 </script>
@@ -14,7 +19,8 @@ defineProps({
 <template>
   <header class="encabezado">
     <h1>{{ titulo }}</h1>
-    <p>{{ subtitulo }}</p>
+    <p class="subtitulo">{{ subtitulo }}</p>
+    <span v-if="adicional" class="adicional">{{ adicional }}</span>
   </header>
 </template>
 
@@ -28,10 +34,21 @@ defineProps({
 
 .encabezado h1 {
   margin: 0;
+  font-size: 2rem;
 }
 
-.encabezado p {
+.subtitulo {
   margin: 8px 0 0;
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.adicional {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: #d97706; /* Tono ámbar que combina con la interfaz de la panadería */
+  font-weight: 500;
+  letter-spacing: 0.5px;
 }
 </style>
-
