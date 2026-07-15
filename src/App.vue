@@ -7,6 +7,9 @@ import EncabezadoApp from './components/EncabezadoApp.vue'
     <EncabezadoApp
       titulo="Panadería Kiataque"
       subtitulo="Sistema de Gestión de Inventario y Ventas"
+      
+      adicional="Sucursal Central - Panel de Administración hecho por luis"
+      
     />
 
     <main class="contenedor-panaderia">
